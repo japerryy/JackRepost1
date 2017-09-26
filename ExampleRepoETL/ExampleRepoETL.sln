@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ExampleRepoETL", "ExampleRepoETL\ExampleRepoETL.dwproj", "{6606B844-7658-49E5-9340-9EE40F98647C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C843797-C85D-4F6E-BBD4-DB634B961F2A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\3300 Labs.docx = ..\..\..\..\Downloads\3300 Labs.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
